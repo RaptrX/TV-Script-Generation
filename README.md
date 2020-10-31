@@ -1,4 +1,4 @@
-# Udacity-TV-Script-Generation
+# TV Script Generation
 
 This notebook and associated files form the TV script generation project which was part of the udacity Deep Learning Nano Degree.
 
